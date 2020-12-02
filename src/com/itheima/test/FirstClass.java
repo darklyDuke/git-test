@@ -14,5 +14,6 @@ public class FirstClass {
         System.out.println(i);
 
         System.out.println();
+        System.out.println("你好");
     }
 }
