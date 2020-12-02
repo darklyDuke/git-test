@@ -12,5 +12,7 @@ public class FirstClass {
         int i = 1;
         i+=100;
         System.out.println(i);
+
+        System.out.println();
     }
 }
