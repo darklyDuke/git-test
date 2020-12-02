@@ -8,5 +8,9 @@ public class FirstClass {
         System.out.println("111111111111");
         System.out.println("111111111111");
         System.out.println("111111111111");
+
+        int i = 1;
+        i+=100;
+        System.out.println(i);
     }
 }
